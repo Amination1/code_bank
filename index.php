@@ -30,4 +30,4 @@ function codebank($code){
 if (! empty($_POST['code'])) {
     codebank($_POST['code']);
 }
-//test code card bank
+//test code card bank.
